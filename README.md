@@ -37,12 +37,18 @@ $ npm install
 ```bash
 # development
 $ npm run start
+OR
+$ yarn start
 
 # watch mode
 $ npm run start:dev
+OR
+yarn start:dev
 
 # production mode
 $ npm run start:prod
+OR
+yarn start:prod
 ```
 
 ## Test
@@ -50,12 +56,18 @@ $ npm run start:prod
 ```bash
 # unit tests
 $ npm run test
+OR
+yarn test
 
 # e2e tests
 $ npm run test:e2e
+OR
+yarn test:e2e
 
 # test coverage
 $ npm run test:cov
+OR
+yarn test:cov
 ```
 
 ## Support
