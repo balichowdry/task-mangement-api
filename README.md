@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript. Task Maanagment API CRUD operations Example
+[Nest](https://github.com/nestjs/nest) framework TypeScript. Task Management API(CRUD operations) Example
 
 ## Installation
 
